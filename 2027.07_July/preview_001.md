@@ -1,20 +1,3 @@
-## SP: 291570860
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/291570860/001.png)
-
-## SP: 291570860
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/291570860/002.png)
-
-## SP: 291570860
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/291570860/003.png)
-
-## SP: 291570860
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/291570860/004.png)
-
-## SP: 291570860
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/291570860/005.png)
-
-## SP: 291570860
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/defaultEnd.webp)
 ## SP: 291570853
 ![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/291570853/001.png)
 
@@ -219,23 +202,7 @@
 
 ## SP: 589151280
 ![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/defaultEnd.webp)
-## SP: 308124770
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/308124770/001.png)
 
-## SP: 308124770
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/308124770/002.png)
-
-## SP: 308124770
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/308124770/003.png)
-
-## SP: 308124770
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/308124770/004.png)
-
-## SP: 308124770
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/308124770/005.png)
-
-## SP: 308124770
-![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/defaultEnd.webp)
 ## SP: 304543028
 ![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/304543028/001.png)
 
