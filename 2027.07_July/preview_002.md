@@ -160,7 +160,7 @@
 ## SP: 459269808
 ![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/459269808/003.png)
 
-## SP: 459269808 - sai chính tả, cần sửa lại
+## SP: 459269808 - sai chính tả, đã sửa
 ![](https://raw.githubusercontent.com/hoanghaiwork06-blin/wbLiubovPics/refs/heads/main/2027.07_July/TPCN/459269808/004.png)
 
 ## SP: 459269808
