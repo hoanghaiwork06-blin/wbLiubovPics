@@ -8,7 +8,7 @@
 
 git add --sparse .
 git status
-git commit -m "Upload 180 new images"
+git commit -m "$1"
 git push origin main
 
 # pause
